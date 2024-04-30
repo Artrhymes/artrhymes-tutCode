@@ -1,0 +1,11 @@
+name ="Yemi"
+DOB=input("How old are you?: " )
+number2=(DOB)
+# print(name)
+# print(name[3])
+# print(name.upper())
+# print(len(name))
+print("Yemi Ayinla is", DOB, "years Old")
+print(name + number2)
+print(abs(-8))
+print(round(4.9999))
